@@ -1,0 +1,14 @@
+$toggleIcon-bgColor: aquamarine; 
+
+
+.ToggleIcon {
+  // background-color: $toggleIcon-bgColor;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  height: 50px;
+  width: 50px;
+  padding: 5px;
+  border-radius: 50%;
+  cursor: pointer;
+}
